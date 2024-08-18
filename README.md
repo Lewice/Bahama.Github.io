@@ -183,103 +183,68 @@
 </head>
 <body>
 
-  <h2>Burgershot</h2>
+  <h2>Bahama Mamas</h2>
 
   <form id="menuForm">
   <h3>Ice Cream Specials</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="2000"> 10 For $2000
+      <input type="checkbox" class="menu-item" data-price="100"> Vodka - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="3000"> 20 For $3000
+      <input type="checkbox" class="menu-item" data-price="100"> yager - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="4500"> 30 For $4500
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="7000"> 50 For $7000
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="10000"> 100 For $10,000
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-	
-	<h3>Combo's</h3>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="1000"> Heartstopper Meal - 1000$ 
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="450">  Bleeder Meal - 450$ 
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="450"> Prickly Meal - 450$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="425"> Double Shot Meal - 425$ 
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-	
-	<h3>Entree's</h3>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="225"> The Bleeder - 225$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="225"> The Prickly - 225$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="200"> Double Shot - 200$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="175"> Simply Burger - 175$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="100"> Taco - 100$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="750"> Heart Stopper - 750$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="300"> Chicken Wrap - 300(2)$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="300"> Goat Cheese Wrap - 300(2)$
-      <input type="number" class="quantity" value="1" min="1">
-    </label>
-    <label>
-      <input type="checkbox" class="menu-item" data-price="125"> Fries - 125$
+      <input type="checkbox" class="menu-item" data-price="100"> Whiskey - $100
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
 	
-	<h3>Beverages</h3>
+	<h3>Mixed Drinks</h3>
     <label>
-      <input type="checkbox" class="menu-item" data-price="100"> Burger Shot Drink - 100$
+      <input type="checkbox" class="menu-item" data-price="150"> Bahama Mama - 150$ 
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="200"> Orangotang Ice Cream - 200$
+      <input type="checkbox" class="menu-item" data-price="150">  Bloody Mary - 150$ 
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="200"> Meteorite Ice Cream - 200$
+      <input type="checkbox" class="menu-item" data-price="150"> Pin a Colada - 150$
       <input type="number" class="quantity" value="1" min="1">
     </label>
     <label>
-      <input type="checkbox" class="menu-item" data-price="150"> Mocha Shake - 150$
+      <input type="checkbox" class="menu-item" data-price="150"> Raspberry Mimosa - 150$ 
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+	
+	<h3>Virgin Options</h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="75"> Coke - 75$
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="75"> Lemonade - 75$
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
+	
+	<h3>Limited Supplies</h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="75"> Beer - 75$
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="25"> Water - 25$
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="100"> Wine - 100$
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="200"> Moonshine - 200$
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
