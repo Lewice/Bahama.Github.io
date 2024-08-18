@@ -186,7 +186,14 @@
   <h2>Bahama Mamas</h2>
 
   <form id="menuForm">
-  <h3>Ice Cream Specials</h3>
+  <h3>Entry</h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="100"> Vodka - $100
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
+   
+  <h3>Shots</h3>
     <label>
       <input type="checkbox" class="menu-item" data-price="100"> Vodka - $100
       <input type="number" class="quantity" value="1" min="1">
