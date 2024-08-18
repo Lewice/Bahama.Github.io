@@ -248,6 +248,16 @@
       <input type="number" class="quantity" value="1" min="1">
     </label>
 
+    	<h3>Mixed Drinks</h3>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="5000"> VIP AREA - 5,000$ 
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+    <label>
+      <input type="checkbox" class="menu-item" data-price="8000">  Private Dance - 8000$ 
+      <input type="number" class="quantity" value="1" min="1">
+    </label>
+
 	
 	
 	
